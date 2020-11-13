@@ -6,9 +6,8 @@ when you want to download or get the repo
 
 ```git commit -m "added messages"```
 
-```git push origin main```
-
-
 ```git pull```
 - fast forward
 - conflict
+
+```git push origin main```
